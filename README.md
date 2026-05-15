@@ -1,7 +1,7 @@
 # StickS3_ROM_Controller
 StickS3 is a wireless controller built for the M5StickS3 made to work seamlessly with the CoreS3 ROM Launcher. THIS ONLY WORKS WITH THE CS3 RUNNING THE ROM LAUNCHER.  The two devices communicate over ESP-NOW — no WiFi, no Bluetooth, no wires.
 
-A portable NES emulator running on the M5Stack CoreS3 with a wireless controller built from the M5StickS3. The two devices communicate over ESP-NOW — no WiFi router, no Bluetooth pairing, no wires. Just pick up the StickS3 and play.
+A portable NES emulator running on the M5Stack CoreS3 with a wireless controller built from the M5StickS3. Just pick up the StickS3 and play.
 
 Hardware
 RoleDeviceEmulator / Display-- M5Stack CoreS3, Wireless Controller-- M5StickS3
